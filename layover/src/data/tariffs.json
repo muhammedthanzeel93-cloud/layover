@@ -1,0 +1,15 @@
+{
+  "taxi": {
+    "flagFall": 12,
+    "airportFlagFall": 25,
+    "perKm": 2.14,
+    "minFare": 12,
+    "nightSurcharge": 0
+  },
+  "metro": {
+    "flatRate": 5
+  },
+  "rideHail": {
+    "multiplier": 1.3
+  }
+}

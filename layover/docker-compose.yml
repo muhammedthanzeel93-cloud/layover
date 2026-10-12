@@ -1,0 +1,13 @@
+services:
+  web:
+    build: .
+    ports:
+      - "2525:2525"
+    volumes:
+      # Map the source code for hot reloading
+      - .:/app
+      # Exclude node_modules from being overwritten by the host
+      - /app/node_modules
+    environment:
+      # Enable polling for hot reloading to work smoothly inside Docker
+      - CHOKIDAR_USEPOLLING=true

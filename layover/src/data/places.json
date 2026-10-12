@@ -1,0 +1,372 @@
+[
+  {
+    "id": "p1",
+    "name": "Burj Khalifa",
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "category": "Landmark",
+    "description": "Tallest building in the world.",
+    "bestTime": "Sunset",
+    "isAirport": false
+  },
+  {
+    "id": "p2",
+    "name": "Dubai Mall",
+    "lat": 25.1975,
+    "lng": 55.2796,
+    "category": "Shopping",
+    "description": "Massive shopping and entertainment destination.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p3",
+    "name": "Dubai International Airport (DXB)",
+    "lat": 25.2532,
+    "lng": 55.3657,
+    "category": "Airport",
+    "description": "Main international airport of Dubai.",
+    "bestTime": "Anytime",
+    "isAirport": true
+  },
+  {
+    "id": "p4",
+    "name": "Palm Jumeirah Boardwalk",
+    "lat": 25.1305,
+    "lng": 55.1171,
+    "category": "Viewpoint",
+    "description": "Scenic walkway on the Palm.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p5",
+    "name": "Dubai Marina Walk",
+    "lat": 25.0805,
+    "lng": 55.1403,
+    "category": "Entertainment",
+    "description": "Waterfront walkway with restaurants.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p6",
+    "name": "JBR Beach",
+    "lat": 25.0763,
+    "lng": 55.1325,
+    "category": "Beach",
+    "description": "Popular public beach with facilities.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p7",
+    "name": "Burj Al Arab",
+    "lat": 25.1412,
+    "lng": 55.1852,
+    "category": "Landmark",
+    "description": "Iconic sail-shaped luxury hotel.",
+    "bestTime": "Afternoon",
+    "isAirport": false
+  },
+  {
+    "id": "p8",
+    "name": "Souk Madinat Jumeirah",
+    "lat": 25.1345,
+    "lng": 55.1855,
+    "category": "Shopping",
+    "description": "Traditional-style market with water canals.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p9",
+    "name": "Dubai Frame",
+    "lat": 25.2355,
+    "lng": 55.3003,
+    "category": "Landmark",
+    "description": "Giant frame offering views of old and new Dubai.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p10",
+    "name": "Gold Souk",
+    "lat": 25.2695,
+    "lng": 55.2974,
+    "category": "Shopping",
+    "description": "Traditional market famous for gold jewelry.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p11",
+    "name": "Spice Souk",
+    "lat": 25.2673,
+    "lng": 55.2952,
+    "category": "Shopping",
+    "description": "Market offering various spices and herbs.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p12",
+    "name": "Dubai Creek",
+    "lat": 25.2625,
+    "lng": 55.3168,
+    "category": "Nature",
+    "description": "Historic saltwater creek.",
+    "bestTime": "Sunset",
+    "isAirport": false
+  },
+  {
+    "id": "p13",
+    "name": "Museum of the Future",
+    "lat": 25.2192,
+    "lng": 55.2819,
+    "category": "Museum",
+    "description": "Exhibits focused on future technologies.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p14",
+    "name": "Kite Beach",
+    "lat": 25.1648,
+    "lng": 55.2081,
+    "category": "Beach",
+    "description": "Popular spot for kitesurfing and water sports.",
+    "bestTime": "Afternoon",
+    "isAirport": false
+  },
+  {
+    "id": "p15",
+    "name": "Dubai Miracle Garden",
+    "lat": 25.0597,
+    "lng": 55.2445,
+    "category": "Nature",
+    "description": "World's largest natural flower garden.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p16",
+    "name": "Global Village",
+    "lat": 25.0673,
+    "lng": 55.3045,
+    "category": "Entertainment",
+    "description": "Cultural, entertainment and shopping project.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p17",
+    "name": "Ski Dubai",
+    "lat": 25.1181,
+    "lng": 55.1972,
+    "category": "Entertainment",
+    "description": "Indoor ski resort in Mall of the Emirates.",
+    "bestTime": "Anytime",
+    "isAirport": false
+  },
+  {
+    "id": "p18",
+    "name": "Atlantis The Palm",
+    "lat": 25.1304,
+    "lng": 55.1171,
+    "category": "Resort",
+    "description": "Ocean-themed resort on the Palm.",
+    "bestTime": "Afternoon",
+    "isAirport": false
+  },
+  {
+    "id": "p19",
+    "name": "Dubai Opera",
+    "lat": 25.1971,
+    "lng": 55.2758,
+    "category": "Culture",
+    "description": "Performing arts centre.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p20",
+    "name": "Al Fahidi Historical Neighbourhood",
+    "lat": 25.2635,
+    "lng": 55.3005,
+    "category": "Culture",
+    "description": "Preserved historic district.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p21",
+    "name": "Jumeirah Mosque",
+    "lat": 25.2341,
+    "lng": 55.2657,
+    "category": "Culture",
+    "description": "Beautiful mosque open to non-Muslims.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p22",
+    "name": "La Mer",
+    "lat": 25.2268,
+    "lng": 55.2573,
+    "category": "Beach",
+    "description": "Beachfront dining and leisure.",
+    "bestTime": "Afternoon",
+    "isAirport": false
+  },
+  {
+    "id": "p23",
+    "name": "IMG Worlds of Adventure",
+    "lat": 25.0807,
+    "lng": 55.3182,
+    "category": "Entertainment",
+    "description": "Indoor amusement park.",
+    "bestTime": "Anytime",
+    "isAirport": false
+  },
+  {
+    "id": "p24",
+    "name": "Dubai Safari Park",
+    "lat": 25.1764,
+    "lng": 55.4485,
+    "category": "Nature",
+    "description": "Wildlife park housing thousands of animals.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p25",
+    "name": "Ain Dubai",
+    "lat": 25.0796,
+    "lng": 55.1226,
+    "category": "Landmark",
+    "description": "Highest observation wheel in the world.",
+    "bestTime": "Sunset",
+    "isAirport": false
+  },
+  {
+    "id": "p26",
+    "name": "Calicut International Airport (CCJ)",
+    "lat": 11.1364,
+    "lng": 75.9553,
+    "category": "Airport",
+    "description": "Primary international gateway of Malabar region.",
+    "bestTime": "Anytime",
+    "isAirport": true
+  },
+  {
+    "id": "p27",
+    "name": "Calicut Beach & Pier Promenade",
+    "lat": 11.2618,
+    "lng": 75.7694,
+    "category": "Beach",
+    "description": "Iconic Arabian sea coastline with century-old colonial pier.",
+    "bestTime": "Sunset",
+    "isAirport": false
+  },
+  {
+    "id": "p28",
+    "name": "SM Street (Sweet Meat Street / Mittai Theruvu)",
+    "lat": 11.2505,
+    "lng": 75.7804,
+    "category": "Shopping",
+    "description": "Heritage bazaar famed for Kozhikodan Halwa & banana chips.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p29",
+    "name": "Beypore Port & Ancient Uru Shipyard",
+    "lat": 11.1772,
+    "lng": 75.8081,
+    "category": "Culture",
+    "description": "Centuries-old port where traditional wooden dhows are handcrafted.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p30",
+    "name": "Trivandrum International Airport (TRV)",
+    "lat": 8.4821,
+    "lng": 76.9200,
+    "category": "Airport",
+    "description": "Kerala's first international gateway located along the coast.",
+    "bestTime": "Anytime",
+    "isAirport": true
+  },
+  {
+    "id": "p31",
+    "name": "Sree Padmanabhaswamy Temple",
+    "lat": 8.4830,
+    "lng": 76.9436,
+    "category": "Culture",
+    "description": "Ancient Dravidian temple architectural marvel and sacred heritage site.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p32",
+    "name": "Kovalam Lighthouse Beach",
+    "lat": 8.3842,
+    "lng": 76.9785,
+    "category": "Beach",
+    "description": "World-famous crescent beach with historic red-and-white lighthouse.",
+    "bestTime": "Sunset",
+    "isAirport": false
+  },
+  {
+    "id": "p33",
+    "name": "Napier Museum & Art Gallery",
+    "lat": 8.5085,
+    "lng": 76.9555,
+    "category": "Museum",
+    "description": "19th-century Indo-Saracenic museum housing rare historical artifacts.",
+    "bestTime": "Afternoon",
+    "isAirport": false
+  },
+  {
+    "id": "p34",
+    "name": "Hamad International Airport (DOH - Qatar)",
+    "lat": 25.2609,
+    "lng": 51.6138,
+    "category": "Airport",
+    "description": "World-class 5-star transit hub in Doha, Qatar.",
+    "bestTime": "Anytime",
+    "isAirport": true
+  },
+  {
+    "id": "p35",
+    "name": "Souq Waqif & Falcon Souq (Doha)",
+    "lat": 25.2867,
+    "lng": 51.5333,
+    "category": "Shopping",
+    "description": "Historic marketplace brimming with spice vendors, cafes, and falconry.",
+    "bestTime": "Evening",
+    "isAirport": false
+  },
+  {
+    "id": "p36",
+    "name": "Museum of Islamic Art (MIA - Doha)",
+    "lat": 25.2952,
+    "lng": 51.5392,
+    "category": "Museum",
+    "description": "I.M. Pei designed masterpiece on Doha's waterfront corniche.",
+    "bestTime": "Morning",
+    "isAirport": false
+  },
+  {
+    "id": "p37",
+    "name": "Doha Corniche & West Bay Skyline",
+    "lat": 25.3050,
+    "lng": 51.5200,
+    "category": "Viewpoint",
+    "description": "Seven-kilometer promenade overlooking the Arabian Gulf and skyscrapers.",
+    "bestTime": "Sunset",
+    "isAirport": false
+  }
+]

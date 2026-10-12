@@ -1,0 +1,51 @@
+[
+  {
+    "id": "s1",
+    "name": "Burj Khalifa/Dubai Mall Metro",
+    "lat": 25.2012,
+    "lng": 55.2736,
+    "mode": "metro"
+  },
+  {
+    "id": "s2",
+    "name": "Airport Terminal 1 Metro",
+    "lat": 25.2476,
+    "lng": 55.3414,
+    "mode": "metro"
+  },
+  {
+    "id": "s3",
+    "name": "Airport Terminal 3 Metro",
+    "lat": 25.2497,
+    "lng": 55.3601,
+    "mode": "metro"
+  },
+  {
+    "id": "s4",
+    "name": "Dubai Marina Metro",
+    "lat": 25.0782,
+    "lng": 55.1436,
+    "mode": "metro"
+  },
+  {
+    "id": "s5",
+    "name": "Mall of the Emirates Metro",
+    "lat": 25.1186,
+    "lng": 55.2008,
+    "mode": "metro"
+  },
+  {
+    "id": "s6",
+    "name": "Union Metro Station",
+    "lat": 25.2661,
+    "lng": 55.3175,
+    "mode": "metro"
+  },
+  {
+    "id": "s7",
+    "name": "BurJuman Metro Station",
+    "lat": 25.2538,
+    "lng": 55.3023,
+    "mode": "metro"
+  }
+]
